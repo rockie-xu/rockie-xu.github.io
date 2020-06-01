@@ -20,9 +20,8 @@ body {
 
 #pic {
     float: right;
-    margin: 10px 0 0 0;
-    transform: rotate(90deg);
-    height: 180px;
+    margin: 0px 0 0 0;
+    height: 250px;
 }
 
 h1 {
