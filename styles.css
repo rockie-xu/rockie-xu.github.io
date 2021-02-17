@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+    /* padding: 0; */
 }
 
 body {
@@ -19,8 +19,9 @@ body {
 }
 
 #language-area {
+    margin: 10px auto 20px;
     text-align: right;
-    padding-bottom: 10px;
+    font-size: 16px;
 }
 
 #pic {
