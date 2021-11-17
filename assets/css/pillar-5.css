@@ -9806,6 +9806,12 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   color: #58677c;
   font-size: 0.875rem;
   font-weight: 500;
+
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+  color: #fff;
+  background-color: #59578E;
 }
 
 .resume-position-time {
