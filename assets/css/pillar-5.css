@@ -4810,7 +4810,7 @@ a.badge:hover, a.badge:focus {
 .badge-pill {
   padding-right: 0.6em;
   padding-left: 0.6em;
-  border-radius: 10rem;
+  /* border-radius: 10rem; */
 }
 
 .badge-primary {
@@ -9807,9 +9807,9 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   font-size: 0.875rem;
   font-weight: 500;
 
-  padding-right: 0.6em;
-  padding-left: 0.6em;
-  border-radius: 10rem;
+  padding-right: 0.8em;
+  padding-left: 0.8em;
+  border-radius: 2rem;
   color: #fff;
   background-color: #59578E;
 }
